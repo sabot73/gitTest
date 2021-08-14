@@ -9,7 +9,7 @@ method oh()(
 
 
 
-mathod sa(){
+method sa(){
 
 
 }
@@ -21,4 +21,8 @@ method new(){
 
 method ho(){
    i am hooh19
+}
+
+
+method yes(){
 }
