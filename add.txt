@@ -26,3 +26,8 @@ method ho(){
 
 method yes(){
 }
+
+
+method good(){
+  i am sabot73
+}
